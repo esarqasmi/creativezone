@@ -1,0 +1,22 @@
+.red{color: #D32F2F}
+.error{color: #d32f2f}
+.error p{color: #d32f2f}
+
+#exTab3 .nav-pills > li > a {
+  border-radius: 4px 4px 0 0 ;
+}
+
+#exTab3 .tab-content {
+  color : white;
+  background-color: #428bca;
+  padding : 5px 15px;
+}
+
+.get_code {
+    background: url('../images/refresh.png') no-repeat;
+    width: 66px;
+    background-size: 31px;
+    border: none;
+    background-position: 15px 8px;
+    cursor: pointer;
+}
